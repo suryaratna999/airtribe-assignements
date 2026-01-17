@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1d1306fa-b7f5-4c9b-9c2c-7ad82ade1d73" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/queries/ListShowsQuery.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queries/sample_data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schema/create_table.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library-management-system/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../library-management-system/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library-management-system/src/main/java/com/library/model/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/../library-management-system/src/main/java/com/library/model/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library-management-system/src/main/java/com/library/model/Loan.java" beforeDir="false" afterPath="$PROJECT_DIR$/../library-management-system/src/main/java/com/library/model/Loan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library-management-system/src/main/java/com/library/model/Patron.java" beforeDir="false" afterPath="$PROJECT_DIR$/../library-management-system/src/main/java/com/library/model/Patron.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library-management-system/src/main/java/com/library/service/BookInventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../library-management-system/src/main/java/com/library/service/BookInventory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library-management-system/src/main/java/com/library/service/LendingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../library-management-system/src/main/java/com/library/service/LendingService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library-management-system/src/main/java/com/library/service/PatronRegistry.java" beforeDir="false" afterPath="$PROJECT_DIR$/../library-management-system/src/main/java/com/library/service/PatronRegistry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library-management-system/src/test/java/com/library/service/BookInventoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../library-management-system/src/test/java/com/library/service/BookInventoryTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="38Mb6SzmMFVccRngrtgSImBQfy5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "feature/surya",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/dsrn/Learning/airtribe-assignements/bookmyshow-database-design"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/schema" />
+    </key>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d1306fa-b7f5-4c9b-9c2c-7ad82ade1d73" name="Changes" comment="" />
+      <created>1768612211515</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1768612211515</updated>
+    </task>
+    <servers />
+  </component>
+</project>
