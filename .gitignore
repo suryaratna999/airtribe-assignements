@@ -1,0 +1,44 @@
+# Maven / Java
+# Explicit module target dirs
+/recipe-api/target/
+/recipe-worker/target/
+
+# Exclude packaged jars at root
+/*.jar
+
+# Keep existing patterns
+**/target/
+**/*.jar
+**/*.war
+**/*.class
+
+# H2 database files and app uploads
+/recipe-api/data/
+/recipe-api/uploads/
+/recipe-worker/data/
+/recipe-worker/uploads/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+
+# logs
+*.log
+
+# generated
+*.orig
+
+# Maven wrapper
+.mvn/wrapper/maven-wrapper.jar
+
+# mac specific
+.DS_Store
+
+# other
+/.classpath
+/.project
+/.settings/
