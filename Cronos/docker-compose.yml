@@ -1,0 +1,15 @@
+services:
+  producer:
+    build: ./job-schedule-prodcuer-api
+    ports:
+      - "8080:8080"
+    environment:
+      - SPRING_DATASOURCE_PASSWORD=${DB_PASSWORD}
+      - API_KEY=${API_KEY}
+    restart: always
+
+  consumer:
+    build: ./job-scheduler-consumer
+    environment:
+      - SPRING_DATASOURCE_PASSWORD=${DB_PASSWORD}
+    restart: always
